@@ -10,4 +10,4 @@ By grouping and analyzing key features by artist, genre, and explicit content, w
 * What artists have the longest or most popular songs?
 * What is the average song length per genre?
 ## 🛠️ Tools used:
-Python (pandas, matplotlib, seaborn) for analysis and visualizaiton
+Python (pandas, matplotlib, seaborn) for analysis and visualization.
