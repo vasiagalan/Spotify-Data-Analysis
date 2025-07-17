@@ -1,1 +1,1 @@
-# 🎧 Spotify Data Analysis Porject 
+# 🎧 Spotify Data Analysis Project 
